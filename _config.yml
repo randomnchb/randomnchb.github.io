@@ -1,10 +1,10 @@
 # Site settings
-title: IHB Randomizer
+title: NCHB Randomizer
 email: cld251@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Song randomizer for BHS Harmony Brigades
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://randomihb.github.io" # the base hostname & protocol for your site
+url: "http://randomnchb.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
